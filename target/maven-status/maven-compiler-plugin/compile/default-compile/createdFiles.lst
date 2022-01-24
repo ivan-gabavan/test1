@@ -1,0 +1,9 @@
+ru\kazemirov\test1\jooq\sample\model\DbEmail.class
+ru\kazemirov\test1\jooq\sample\model\tables\records\EmailRecord.class
+ru\kazemirov\test1\jooq\sample\model\tables\Email.class
+ru\kazemirov\test1\jooq\sample\model\Tables.class
+ru\kazemirov\test1\Test1Application.class
+ru\kazemirov\test1\jooq\sample\model\Keys.class
+ru\kazemirov\test1\service\EmailService.class
+ru\kazemirov\test1\jooq\sample\model\tables\pojos\Email.class
+ru\kazemirov\test1\jooq\sample\model\DefaultCatalog.class
